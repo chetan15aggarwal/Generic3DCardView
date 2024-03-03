@@ -20,7 +20,7 @@ This project is a testament to creativity and SwiftUI's capabilities, offering a
 
 
 
-## Documentation
+## Usage
 
 
 
