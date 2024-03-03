@@ -1,5 +1,6 @@
 # Generic 3D Card View
 
+![Generic_3D_Card_View](https://github.com/chetan15aggarwal/Generic3DCardView/assets/20903001/8eda8b2f-1be0-4a00-9e7d-debc70f37d0d)
 
 Welcome to Generic 3D Card View, a delightful project showcasing the implementation of a parallax effect on a generic card view using SwiftUI.
 
